@@ -1,7 +1,7 @@
 {
   "name": "Pakan Ternak Toko Sabrina",
-  "short_name": "Pakan Ternak Sabrina",
-  "description": "Sistem Prediksi Tren Penjualan Toko Pakan Ternak - Toko Sabrina",
+  "short_name": "Pakan Ternak Toko Sabrina",
+  "description": "Sistem Prediksi Tren Penjualan Pakan Ternak - Toko Sabrina",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#1E3A8A",
